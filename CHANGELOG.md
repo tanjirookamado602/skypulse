@@ -3,3 +3,4 @@
 - Patch 3: refine telemetry and network diagnostics
 - Patch 4: refine telemetry and network diagnostics
 - Patch 5: refine telemetry and network diagnostics
+- Patch 6: refine telemetry and network diagnostics
